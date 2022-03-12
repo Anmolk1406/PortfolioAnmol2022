@@ -1,0 +1,32 @@
+
+.cardItem
+{
+    width: 27.5rem;
+    border-radius: 0.5rem;
+    background: radial-gradient(106.29% 72.95% at -3.67% 49.33%, #FFFFFF 0%, #D6D6D6 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+border-radius: 11.0698px;
+}
+
+.number
+{
+    font-family: 'Paytone One';
+font-style: normal;
+font-weight: 400;
+font-size: 132.838px;
+line-height: 185px;
+/* identical to box height */
+/* Linear/LightText */
+
+    background: linear-gradient(180deg, #131313 27.61%, rgba(19, 19, 19, 0) 83.33%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    padding: 190px;
+
+}
+
+.cardInfo
+{
+    
+}

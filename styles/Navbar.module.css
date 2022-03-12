@@ -1,0 +1,37 @@
+
+
+.navbar{
+    font-family: 'Outfit';
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+    flex-direction: row;
+    list-style-type: none;
+    background: var(--background);
+    color: var(--darkBase);
+}
+
+.links
+{
+    font-weight: 300;
+    display: flex;
+    flex-direction: row;
+    font-size: 1.5rem;
+}
+
+.linkBtns{
+    padding: 10px;
+    cursor: pointer;
+    margin: 0px 25px;
+}
+
+.active{
+    font-weight: 600;
+    color: var(--primary);
+}
+
+.btn{
+    margin: 0 62px 0 0;
+}
+
